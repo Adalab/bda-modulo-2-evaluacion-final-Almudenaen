@@ -1,0 +1,1 @@
+SELECT * FROM music_stream2.lastfm
