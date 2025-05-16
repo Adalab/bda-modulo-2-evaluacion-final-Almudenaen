@@ -1,4 +1,8 @@
 # EVALUACIÓN FINAL MÓDULO 2: MySQL
+
+Enunciado: 
+Utilizando la BBDD Sakila realizar consultas y análisis de datos en el contexto de una tienda de alquiler de películas.
+
 Objetivos:
 - Dominar las queries básicas: SELECT, UPDATE, DELETE y INSERT 
 - Dominar las funciones GROUPBY, WHERE y HAVING
