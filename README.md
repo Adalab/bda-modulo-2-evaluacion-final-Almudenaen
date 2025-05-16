@@ -8,3 +8,5 @@ Objetivos:
 - Dominar las funciones GROUPBY, WHERE y HAVING
 - Dominar el uso de JOIN (incluyendo UNION y UNION ALL)
 - Dominar el uso de subconsultas
+- Dominar el uso de las subconsultas correlacionadas
+- Manejar las CTE’s (Common Table Expressions)
